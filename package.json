@@ -1,0 +1,22 @@
+{
+  "name": "cracking-code-interview",
+  "version": "1.0.0",
+  "description": "Cracking coding interview ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadsakrdev/cracking-code-interview.git"
+  },
+  "author": "Mohammad Sakr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadsakrdev/cracking-code-interview/issues"
+  },
+  "homepage": "https://github.com/mohammadsakrdev/cracking-code-interview#readme"
+}
