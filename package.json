@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mohammadsakrdev/cracking-code-interview/issues"
   },
-  "homepage": "https://github.com/mohammadsakrdev/cracking-code-interview#readme"
+  "homepage": "https://github.com/mohammadsakrdev/cracking-code-interview#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
