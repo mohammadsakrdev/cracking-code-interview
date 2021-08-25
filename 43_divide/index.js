@@ -20,4 +20,4 @@ function divide(dividend, divisor) {
   return sign < 0 ? -ans : ans;
 }
 
-module.exports = strStr;
+module.exports = divide;
