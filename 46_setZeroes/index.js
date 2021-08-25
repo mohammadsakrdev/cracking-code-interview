@@ -37,4 +37,4 @@ function setZeroes(matrix) {
   return matrix;
 }
 
-module.exports = permute;
+module.exports = setZeroes;
