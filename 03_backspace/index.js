@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/backspace-string-compare/
+
 function buildString(str) {
   const res = [];
 

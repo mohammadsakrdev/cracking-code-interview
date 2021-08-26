@@ -6,7 +6,6 @@ function isAnagram(s, t) {
   }
 
   const sChar = {};
-  const tChar = {};
 
   for (let i = 0; i < s.length; i++) {
     sChar[s[i]] = sChar[s[i]] + 1 || 1;
